@@ -190,8 +190,8 @@ Beta diversity and PERMANOVA use a rarefied phyloseq object (`ps_rarefied.rds`).
 Raw sequencing data → NanoClust/NanoScript (Nextflow) → T-BAS v2.4 (LIFE1 reference tree) → this pipeline.
 
 Bioinformatics: Dr. Ignazio Carbone (CIFR, NC State).  
-Sequencing: Dr. Mary Anna Carbone (NC State).  
-Pipeline development: Hannah Hiscott (NC State, Montoya Lab).
+Sequencing: Dr. Mary Anna Carbone (CIFR, NC State).  
+Downstream pipeline development: Hannah Hiscott (NC State, Montoya Lab).
 
 ---
 
