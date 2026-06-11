@@ -208,7 +208,7 @@ And the relevant journal papers (update as published):
 ---
 
 ## Contact
-Hannah Hiscott | hannahhiscott@rmc.edu
-Hiscott Geo Lab
-Department of Engineering and Physics
+Hannah Hiscott | hannahhiscott@rmc.edu |
+Hiscott Geo Lab |
+Department of Engineering, Physics and Astrophysics |
 Randolph-Macon College
