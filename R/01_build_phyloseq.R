@@ -58,7 +58,7 @@ if (is.null(tree)) {
 # We transpose to taxa-as-rows for phyloseq convention.
 
 otu_mat <- otu_raw %>%
-  column_to_rownames(COL_NAMES$sample_id) %>%
+  column_to_rownames(COL_NAMES$otu_sample_id) %>%
   as.matrix() %>%
   t()   # phyloseq: rows = OTUs, columns = samples
 
