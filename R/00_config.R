@@ -60,7 +60,8 @@ PATHS <- list(
 # Change the RIGHT side of each pair if your column headers differ.
 
 COL_NAMES <- list(
-  sample_id      = "Sample_Code",     # Row identifier in metadata & OTU table
+  sample_id      = "Sample_Code",     # Row identifier in metadata
+  otu_sample_id = "SampleID",         # Row identifier in OTU table
   treatment      = "Treatment",        # Treatment group column in metadata
   species        = "Species",          # Plant species column in metadata
   otu_feature_id = "FeatureID",        # Row identifier in taxonomy table
