@@ -1,6 +1,6 @@
 # MICP Microbiome Analysis Pipeline
 
-Reproducible R pipeline for microbial community analysis of MICP-treated soils. Developed for the ERDC-funded project *"Engineering Bio-Mediated Soil Improvement for Planted Infrastructure and Ecosystem Resiliency"* (NC State University, Montoya Geoenvironmental Lab).
+Reproducible R pipeline for microbial community analysis of MICP-treated soils. Developed for the ERDC-funded project *"Engineering Bio-Mediated Soil Improvement for Planted Infrastructure and Ecosystem Resiliency"* (NC State University, Montoya Lab).
 
 Sequencing data processed via Nanopore MinION → NanoClust/NanoScript → T-BAS phylogenetic placement (LIFE1 reference tree). This pipeline picks up from T-BAS output and carries through all downstream community analyses.
 
