@@ -1,0 +1,18 @@
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Data — raw data and processed objects are NOT tracked by git.
+# Collaborators should obtain raw files from the shared lab drive.
+data/raw/
+data/processed/
+
+# Outputs — regenerate by running the pipeline
+outputs/figures/
+outputs/tables/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
