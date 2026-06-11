@@ -208,8 +208,7 @@ And the relevant journal papers (update as published):
 ---
 
 ## Contact
-
-Montoya Geoenvironmental Lab  
-Department of Civil, Construction and Environmental Engineering  
-NC State University  
-PI: Dr. Brina Montoya
+Hannah Hiscott / hannahhiscott@rmc.edu
+Hiscott Geo Lab
+Department of Engineering and Physics
+Randolph-Macon College
